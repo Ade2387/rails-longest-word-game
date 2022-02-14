@@ -4,6 +4,5 @@ class GamesController < ApplicationController
   end
 
   def score
-    byebug
   end
 end
